@@ -7,6 +7,18 @@ This repository containing links of all the example apps [Flutter](https://flutt
 
 1.  [Whatsapp_Clone](https://github.com/FaRedAhmed01/Whatsapp_Clone)
 
+1.  [Google Maps Route](https://github.com/FaRedAhmed01/google_map_route)
+
+1.  [Traveler](https://github.com/FaRedAhmed01/traveler)
+
+1.  [Food App](https://github.com/FaRedAhmed01/Food_App)
+
+1.  [Fashion App](https://github.com/FaRedAhmed01/Fashion_App)
+
+1.  [starbucks](https://github.com/FaRedAhmed01/starbucks_UI)
+
+1.  [rentalapp](https://github.com/FaRedAhmed01/rental_app)
+
 1.  [BMI_Calculator](https://github.com/FaRedAhmed01/BMI_Calculator)
 
 1.  [login_UI](https://github.com/FaRedAhmed01/login_UI)
