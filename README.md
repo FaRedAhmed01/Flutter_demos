@@ -1,5 +1,3 @@
-### Show some :heart: and star the repo to support the project
-
 
 This repository containing links of all the example apps [Flutter](https://flutter.io/).
 
